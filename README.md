@@ -3,6 +3,7 @@
 ##Presentation
 - Beyond Bitcoin Presentation.pptx
 - Beyond Bitcoin Presentation.pdf
+
 Mika Sanchez and Clayton Rothschild examine how blockchain disrupts far more than just the financial system. Blockchain technology has the potential to make any ledger based industry more efficient, cheaper, and secure.
 
 The authors examine how blockchains work. Then, they examine use cases for the blockchain. Finally, they build a voting application using Solidity on Ethereum, a blockchain application.
